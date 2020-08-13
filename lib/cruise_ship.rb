@@ -6,6 +6,9 @@
 # suite_e: "Crumpet the Elf"
 # }
 
+#Amanda Presley
+
 def select_winner(passengers)
   # add the code snippet here!
+  passengers.each do |suite, name|
 end
